@@ -17,7 +17,7 @@ By consolidating this information into **a single, interactive dashboard**, the 
   Built analytical measures to generate key insights and KPIs such as **Median Yearly Salary** and **Job Count**.
 
 * 📊 **Data Visualization & Core Charts**
-  Designed and used **Column, Bar, Line,** and **Area charts** to compare job counts and analyze trends over time.
+  Designed and used **Column, Map, Line, Donut,Cards** and **Scattered plots** to compare job counts and analyze trends over time.
 
 * 🌍 **Geospatial Analysis**
   Leveraged **Map visuals** to explore and communicate the global distribution of data roles.
