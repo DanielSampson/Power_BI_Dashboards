@@ -35,5 +35,35 @@ Explore the live interactive version here:
 * 🔘 **Navigation** — Using buttons and bookmarks for seamless page transitions.
 * ⚡ **Drill-Through Functionality** — enabling deep-dive exploration into specific data points.
 
----
 [👉** View full project 1 details (README)**](/Dat_Jobs_v1/README.md)
+
+---
+
+
+## 📊 Data Jobs Dashboard 2.0 (v2-Single Page Focus)
+![Data Jobs Dashboard 2.0](/images/Project_2_Page_1.PNG)
+
+[👉🌐 View interactive dashboard here on the Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNTY0NGE4NTUtOTAxMC00YjE5LTg3NDctOWRmNDUxNzAzYzQyIiwidCI6IjJmY2Q2MDIxLTI1NjEtNDM5Yy1hN2JmLWFlNmUxOGYyNzQ5MSJ9)
+
+### 🚀 Key Power BI Skills Utilized (demonstrating progression):
+
+* **🎨 Advanced Dashboard Design:** Single-Page UX & Optimization.
+* **⚙️ Complex Power Query Transformations:** Cleaning and shaping the data for analysis.
+* **🏗️ Star Schema Data Modeling Principles:** Building an efficient data architecture.
+* **🔢 Explicit DAX Measures:** Using functions like `CALCULATE` and context modifiers.
+* **📊 Dynamic Visualizations:** Driven by Parameters and Slicers.
+* **🧪 Field & Numeric Parameter Implementation:** For "What-If" analysis and toggleable views.
+* **🗺️ Enhanced Geospatial Insights:** Mapping job locations.
+* **📇 Advanced Card Visualizations:** Highlighting key metrics like Median Salary and Job Count.
+* **🖱️ Optimized Slicers & Advanced Cross-Filtering:** Providing a seamless user experience.
+* **✨ Report Performance Considerations:** Ensuring the dashboard runs efficiently.
+
+---
+[👉** View full project 2 details (README)**](/Data_Jobs_v2/README.md)
+
+
+---
+
+## 📁 About This Portfolio
+
+Each dashboard linked above has its own detailed `README.md` file within its respective project folder. These offer deeper insights into the project objectives, data sources, specific Power BI techniques employed, and a closer look at the dashboard build.
