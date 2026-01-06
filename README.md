@@ -1,39 +1,75 @@
-# My Power BI Data Portfolio 📊
+# Data Jobs Dashboard w/ Power BI
+## Introduction 
+![Dashboard Page 1](/images//Project_1_Page_1.PNG)
 
-Hello, Data Nerds! This repository features a curated collection of Power BI 
-dashboards I have designed. It showcases my evolution in data visualization, 
-moving from basic reporting to complex interactive projects, all with the 
-goal of converting raw data into clear, strategic intelligence.
+Understanding the data job market can be challenging. Job information is often fragmented across multiple platforms, making it difficult to identify trends, compare roles, and evaluate compensation effectively.
 
-## 🌟 Spotlight Projects
+This Power BI dashboard was built for **job seekers, career switchers, and professionals** considering new opportunities. It leverages a **real-world dataset of 2024 data science job postings**, covering key details such as **job titles, salary ranges, and geographic locations**.
 
-Take a look at the dashboards featured below. Each one includes its own 
-detailed README explaining the development process and key technical highlights.
+By consolidating this information into **a single, interactive dashboard**, the project enables users to easily explore market trends, analyze salary distributions, and gain actionable insights to support data-driven career decisions.
 
-### 📈 Data Careers Dashboard (V1 - Comprehensive Overview)
+## 🛠️ Skills Showcased
 
-![Dat Jobs DB GIF](/images/Project_1_Page_1.PNG)
-### 📈 Data Jobs Dashboard (V1)
-Explore the live interactive version here:  
-👉 📈 [Data Jobs Dashboard (V1)](https://app.powerbi.com/view?r=eyJrIjoiNmM0NjYxMjctNzJhMy00OWEwLTgyNzItZmY3NDRlOGQ2Yjg1IiwidCI6IjJmY2Q2MDIxLTI1NjEtNDM5Yy1hN2JmLWFlNmUxOGYyNzQ5MSJ9)
+* ⚙️ **Data Transformation (ETL) with Power Query**
+  Cleaned, shaped, and prepared raw data by handling missing values, correcting data types, and creating derived columns for analysis.
 
-**Key Features:**
-* **Main View:** High-level overview of job counts, salaries, and trends.
-* **Deep Dive:** Select a job title and use the **"Drill Through"** button to see specific details for that role.
+* 📐 **Measures & KPIs (DAX)**
+  Built analytical measures to generate key insights and KPIs such as **Median Yearly Salary** and **Job Count**.
 
----
+* 📊 **Data Visualization & Core Charts**
+  Designed and used **Column, Bar, Line,** and **Area charts** to compare job counts and analyze trends over time.
 
-### 🛠️ Key Power BI Skills Utilized:
-* 🎨 **Dashboard Layout & Design** — Creating intuitive, user-friendly visual interfaces.
-* ⚙️ **Power Query (ETL & Data Shaping)** — Cleaning and transforming raw data for analysis.
-* 🔗 **Basic Data Modeling** — Establishing table relationships to ensure data integrity.
-* 🔢 **Implicit Measures & Aggregations** — Utilizing built-in calculations for rapid insights.
-* 📊 **Core Visuals** — Implementing Bar, Line, Area, and Column charts effectively.
-* 🗺️ **Geospatial Data** — Using map visualizations to track global job trends.
-* 📉 **KPI & Data Tables** — Monitoring critical metrics and detailed statistics.
-* 🔍 **Interactive Filtering** — Implementing slicers for a customized user experience.
-* 🔘 **Navigation** — Using buttons and bookmarks for seamless page transitions.
-* ⚡ **Drill-Through Functionality** — enabling deep-dive exploration into specific data points.
+* 🌍 **Geospatial Analysis**
+  Leveraged **Map visuals** to explore and communicate the global distribution of data roles.
 
----
-[👉** View full project 1 details (README)**](/Dat_Jobs_v1/README.md)
+* 📋 **KPI Indicators & Tabular Analysis**
+ Implemented Cards for headline metrics and Tables for detailed, sortable insights.
+
+* 🎨 **Dashboard Design & Data Storytelling :**
+Created a clean, intuitive, and visually appealing layout, selecting both common and uncommon visuals to effectively tell the data story.
+
+* 🧭 **Interactive Reporting & Navigation**
+
+  * 🔎 **Slicers**: Dynamic filtering by job title
+
+  * 🧩 **Buttons & Bookmarks:** Seamless navigation across report pages
+
+  * 🔗 **Drill-Through:** From high-level summaries to detailed, contextual views
+
+## 📊 **Dashboard Overview**
+
+### 🌐 **Page 1: High-Level Market View**
+
+![Dashboard Page 1](/images//Project_1_Page_1.PNG)
+Your “mission control” for the data job market. This page highlights key KPIs at a glance:
+
+* **Total Job Count**: Quickly see the volume of data roles available
+
+* **Median Salaries**: Compare salary ranges across roles
+
+* **Top Job Titles**: Identify the most in-demand positions
+
+* **Trends Over Time**: Track how the job market evolves
+
+## 🔍 Page 2: Job Title Drill-Through
+![Dashboard Page 2](/images//Project_1_Page_2.PNG)
+A deep-dive view for detailed job analysis:
+
+* **Salary Ranges:** Examine compensation for specific roles
+
+* **Work-from-Home Stats:** Understand remote opportunities
+
+* **Top Hiring Platforms**: See where jobs are posted
+
+* **Global Map of Locations:** Visualize geographic distribution of roles
+
+## 🎯 Conclusion
+This dashboard turns complex, scattered job market data into clear, actionable insights. From high-level trends to detailed role-specific analysis, it equips job seekers and career switchers with the knowledge to make smarter, data-driven career decisions fast, confident, and informed.
+
+## 💡 Key Takeaways:
+
+* Understand market trends and salary patterns at a glance
+
+* Explore specific job roles and geographic opportunities
+
+* Gain actionable insights to plan your next career move
