@@ -1,4 +1,5 @@
 # Data Jobs Dashboard w/ Power BI
+👉 **[View Live Dashboard on Power BI service](https://app.powerbi.com/view?r=eyJrIjoiNmM0NjYxMjctNzJhMy00OWEwLTgyNzItZmY3NDRlOGQ2Yjg1IiwidCI6IjJmY2Q2MDIxLTI1NjEtNDM5Yy1hN2JmLWFlNmUxOGYyNzQ5MSJ9)**
 ## Introduction 
 ![Dashboard Page 1](/images//Project_1_Page_1.PNG)
 
