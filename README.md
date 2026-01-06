@@ -72,5 +72,6 @@ This dashboard turns complex, scattered job market data into clear, actionable i
 * Understand market trends and salary patterns at a glance
 
 * Explore specific job roles and geographic opportunities
-* Gain actionable insights to plan your next career move
+* Gain actionable insights to plan your next career move.
+
   👉 **[View Live Dashboard on Power BI service](https://app.powerbi.com/view?r=eyJrIjoiNmM0NjYxMjctNzJhMy00OWEwLTgyNzItZmY3NDRlOGQ2Yjg1IiwidCI6IjJmY2Q2MDIxLTI1NjEtNDM5Yy1hN2JmLWFlNmUxOGYyNzQ5MSJ9)**
